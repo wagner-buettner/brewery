@@ -1,4 +1,4 @@
-package com.wagner.brewery.web.services.v2;
+package com.wagner.brewery.services.v2;
 
 import com.wagner.brewery.web.model.v2.BeerDtoV2;
 import com.wagner.brewery.web.model.v2.BeerStyleEnum;

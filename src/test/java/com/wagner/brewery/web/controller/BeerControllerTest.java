@@ -2,7 +2,7 @@ package com.wagner.brewery.web.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.wagner.brewery.web.model.BeerDto;
-import com.wagner.brewery.web.services.BeerService;
+import com.wagner.brewery.services.BeerService;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

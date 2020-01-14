@@ -1,7 +1,7 @@
 package com.wagner.brewery.web.controller.v2;
 
 import com.wagner.brewery.web.model.v2.BeerDtoV2;
-import com.wagner.brewery.web.services.v2.BeerServiceV2;
+import com.wagner.brewery.services.v2.BeerServiceV2;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.wagner.brewery.web.services;
+package com.wagner.brewery.services;
 
 import com.wagner.brewery.web.model.BeerDto;
 
