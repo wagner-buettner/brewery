@@ -4,7 +4,7 @@ import com.wagner.brewery.domain.Beer;
 import com.wagner.brewery.web.model.BeerDto;
 import org.mapstruct.Mapper;
 
-@Mapper
+@Mapper(uses = {DateMapper.class})
 public interface BeerMapper {
 
     BeerDto beerToBeerDto(Beer beer);
